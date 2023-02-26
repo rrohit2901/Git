@@ -23,7 +23,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-
+Shashwat Kumar [ENAMINE1] (https://github.com/ENAMINE1)
 
 ## Task 2
 
