@@ -1,0 +1,28 @@
+// CPP program to calculate the LCM of N!
+// and its neighbor (N-1)! and (N+1)!
+#include <bits/stdc++.h>
+using namespace std;
+
+// function to calculate the factorial
+unsigned int factorial(unsigned int n)
+{
+	if (n == 0)
+		return 1;
+	return n * factorial(n - 1);
+}
+
+int LCMOfNeighbourFact(int n)
+{
+	// returning the factorial of the
+	// largest number in the given three
+	// consecutive numbers
+	return factorial(n + 1);
+}
+
+// Driver code
+int main()
+{
+	int N = 5;
+	cout << LCMOfNeighbourFact(N) << "\n";
+	return 0;
+}
