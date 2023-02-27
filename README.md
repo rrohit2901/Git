@@ -24,6 +24,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 Rohit Raj
+
 Sri Deekshith Labba [Deekshithlabba](http://github.com/Deekshithlabba)
 ## Task 2
 
