@@ -25,6 +25,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 Rohit Raj
 
+Tejas Kumar Gujjala [Tejaskumar333](http://github.com/Tejaskumar333)
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
