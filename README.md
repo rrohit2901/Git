@@ -27,8 +27,6 @@ Your entry should maintain alphabetic order and it should be in the format:
 Utsav Mehta [UtsavMehta1902](https://github.com/UtsavMehta1902)
 Rohit Raj
 
-Utsav Mehta [UtsavMehta1902](https://github.com/UtsavMehta1902)
-
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
