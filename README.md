@@ -28,6 +28,8 @@ Utsav Mehta
 
 Rohit Raj
 
+Utsav Mehta
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
