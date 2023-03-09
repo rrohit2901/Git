@@ -26,6 +26,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 Rohit Raj
 Dikesh
 Dikesh2
+Dieksh3
 
 ## Task 2
 
