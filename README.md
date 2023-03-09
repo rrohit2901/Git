@@ -29,6 +29,7 @@ Dikesh2
 Dieksh3
 Dikesh4
 Dikesh5
+Dieksh6
 
 ## Task 2
 
